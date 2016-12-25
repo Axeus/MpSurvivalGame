@@ -1,0 +1,278 @@
+[
+	{
+		"ID" : "Spear",
+		"Title" : "Stone Spear",
+		"Power" : 8,
+		"Description" : "It's spearhead is not too sharp",
+		"Stackable" : false,
+		"ItemType": 5
+	},
+	{
+		"ID" : "Bow",
+		"Title" : "Bow",
+		"Power" : 10,	
+		"Description" : "Suitable for killing rabbits at a distance",
+		"Stackable" : false,
+		"ItemType": 5
+	},
+	{
+		"ID" : "RawMeat",
+		"Title" : "Raw Meat",
+		"Power" : 10,		
+		"Description" : "Maybe fry it on fire?",
+		"Stackable" : true,
+		"ItemType": 6,
+		"MaxStack" : 10
+	},
+	{
+		"ID" : "Meat",
+		"Title" : "Meat",
+		"Power" : 30,		
+		"Description" : "Tasty even without salt",
+		"Stackable" : true,
+		"ItemType": 6,
+		"MaxStack" : 10
+	},
+	{
+		"ID" : "Water",
+		"Title" : "Water",
+		"Power" : 30,		
+		"Description" : "Restores thirst and stamina",
+		"Stackable" : true,
+		"ItemType": 6,
+		"MaxStack" : 20
+	},
+	{
+		"ID" : "LeatherArmor",
+		"Title" : "Leather Armor",
+		"Defence" : 10,		
+		"Description" : "Strong leather jacket",
+		"Stackable" : false,
+		"ItemType": 0
+	},
+	{
+		"ID" : "LeatherHelm",
+		"Title" : "Leather Helm",
+		"Defence" : 5,		
+		"Description" : "Warm leather cap",
+		"Stackable" : false,
+		"ItemType": 1
+	},
+		{
+		"ID" : "LeatherGloves",
+		"Title" : "Leather Gloves",
+		"Defence" : 3,		
+		"Description" : "Protection against a weak bite",
+		"Stackable" : false,
+		"ItemType": 4
+	},
+		{
+		"ID" : "LeatherShoes",
+		"Title" : "Leather Shoes",
+		"Defence" : 3,		
+		"Description" : "These shoes do not get wet",
+		"Stackable" : false,
+		"ItemType": 3
+	},
+	{
+		"ID" : "LeatherPants",
+		"Title" : "Leather Pants",
+		"Defence" : 7,		
+		"Description" : "Warm leather pants",
+		"Stackable" : false,
+		"ItemType": 2
+	},
+		{
+		"ID" : "Stick",
+		"Title" : "Stick",
+		"Description" : "Just stick",
+		"Stackable" : true,
+		"ItemType": 7
+	},
+	{
+		"ID" : "Fiber",
+		"Title" : "Fiber",
+		"Description" : "Some grass",
+		"Stackable" : true,
+		"ItemType": 7
+	},
+	{
+		"ID" : "Leather",
+		"Title" : "Leather",
+		"Description" : "A large piece of thick skin",
+		"Stackable" : true,
+		"ItemType": 7
+	},
+	{
+		"ID" : "Axe",
+		"Title" : "Stone Axe",
+		"Power" :8,
+		"Description" : "With this you can try to cut down a tree",
+		"Stackable" : false,
+		"ItemType": 5
+	},
+	{
+		"ID" : "Pickaxe",
+		"Title" : "Stone Pickaxe",
+		"Power" :8,
+		"Description" : "It's time to mine some iron",
+		"Stackable" : false,
+		"ItemType": 5
+	},
+		{
+		"ID" : "Chest",
+		"Title" : "Chest",
+		"Description" : "Little Grandma's chest",
+		"Stackable" : true,
+		"ItemType": 7,
+		"MaxStack" : 10,
+		"Placeable" : true
+	},
+		{
+		"ID" : "Crate",
+		"Title" : "Crate",
+		"Description" : "Big box",
+		"Stackable" : true,
+		"ItemType": 7,
+		"MaxStack" : 10,
+		"Placeable" : true
+	},
+	{
+		"ID" : "Log",
+		"Title" : "Log",
+		"Description" : "Part of the felled tree",
+		"Stackable" : true,
+		"ItemType": 7,
+		"MaxStack" : 64
+	},
+	{
+		"ID" : "Planks",
+		"Title" : "Wooden Planks",
+		"Description" : "Basic material for crafting",
+		"Stackable" : true,
+		"ItemType": 7,
+		"Slug"	: "WoodenPlanks"
+	},
+	{
+		"ID" : "IronOre",
+		"Title" : "Iron Ore",
+		"Description" : "It would be nice to melt it into an ingot",
+		"Stackable" : true,
+		"ItemType": 7
+	},
+	{
+		"ID" : "Arrow",
+		"Title" : "Arrow",
+		"Description" : "It flies very fast",
+		"Stackable" : true,
+		"ItemType": 7
+	},
+	{
+		"ID" : "Feather",
+		"Title" : "Feather",
+		"Description" : "Soft and tickles",
+		"Stackable" : true,
+		"ItemType": 7
+	},
+	{
+		"ID" : "House",
+		"Title" : "House Blueprint",
+		"Description" : "Blueprint of strong log house",
+		"Stackable" : false,
+		"ItemType" : 7,
+		"Slug" : "Blueprint",
+		"Placeable" : true
+	},
+	{
+		"ID" : "Stone",
+		"Title" : "Stone",
+		"Description" : "Small stone",
+		"Stackable" : true,
+		"ItemType": 7
+	},
+	{
+		"ID" : "Workbench",
+		"Title" : "Workbench",
+		"Description" : "Here you can create advanced items",
+		"Stackable" : false,
+		"ItemType": 7,
+		"Placeable" : true
+	},
+	{
+		"ID" : "Furnace",
+		"Title" : "Furnace",
+		"Description" : "Do you want to fry the meat?",
+		"Stackable" : false,
+		"ItemType": 7,
+		"Placeable" : true
+	},
+	{
+		"ID" : "Torch",
+		"Title" : "Torch",
+		"Description" : "",
+		"Stackable" : false,
+		"ItemType": 7
+	},
+	{
+		"ID" : "TorchOnWall",
+		"Title" : "Wall torch",
+		"Description" : "",
+		"Stackable" : true,
+		"ItemType": 7,
+		"Placeable" : true
+	},
+	{
+		"ID" : "IronSpear",
+		"Title" : "Iron Spear",
+		"Power" : 15,
+		"Description" : "Very sharp",
+		"Stackable" : false,
+		"ItemType": 5
+	},
+	{
+		"ID" : "IronIngot",
+		"Title" : "Iron Ingot",
+		"Description" : "Iron ore after smelting",
+		"Stackable" : true,
+		"ItemType": 7
+	},
+	{
+		"ID" : "Fat",
+		"Title" : "Fat",
+		"Description" : "Animal fat",
+		"Stackable" : true,
+		"ItemType": 7
+	},
+	{
+		"ID" : "Bed",
+		"Title" : "Bed",
+		"Description" : "Warm and soft bed",
+		"Stackable" : false,
+		"ItemType": 7,
+		"Placeable" : true
+	},
+	{
+		"ID" : "Gun",
+		"Title" : "Gun",
+		"Power" : 20,
+		"Description" : "Powerful rifle",
+		"Stackable" : false,
+		"ItemType": 5
+	},
+	{
+		"ID" : "Ammo",
+		"Title" : "Ammo",
+		"Description" : "Ammo for rifle",
+		"Stackable" : true,
+		"ItemType": 7,
+		"MaxStack" : 20
+	},
+	{
+		"ID" : "Sapling",
+		"Title" : "Sapling",
+		"Description" : "It can be grown into tree",
+		"Stackable" : true,
+		"ItemType": 7,
+		"Placeable" : true
+	}
+]

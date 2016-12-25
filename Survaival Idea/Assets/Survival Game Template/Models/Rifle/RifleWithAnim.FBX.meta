@@ -1,0 +1,135 @@
+fileFormatVersion: 2
+guid: 2d047a294c0bf5d44828db6f26438d04
+timeCreated: 1460541342
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Bn_BracketRecharge
+    100002: Bn_GunBody
+    100004: Bn_Hammer
+    100006: Bn_Root
+    100008: Bn_RootWeaponHand
+    100010: Bn_Trigger
+    100012: Rifle_low
+    100014: //RootNode
+    400000: Bn_BracketRecharge
+    400002: Bn_GunBody
+    400004: Bn_Hammer
+    400006: Bn_Root
+    400008: Bn_RootWeaponHand
+    400010: Bn_Trigger
+    400012: Rifle_low
+    400014: //RootNode
+    4300000: Rifle_low
+    7400000: Rifle_Attack
+    9500000: //RootNode
+    13700000: Rifle_low
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Rifle_Attack
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bn_RootWeaponHand
+        weight: 1
+      - path: Bn_RootWeaponHand/Bn_Root
+        weight: 1
+      - path: Bn_RootWeaponHand/Bn_Root/Bn_BracketRecharge
+        weight: 1
+      - path: Bn_RootWeaponHand/Bn_Root/Bn_GunBody
+        weight: 1
+      - path: Bn_RootWeaponHand/Bn_Root/Bn_Hammer
+        weight: 1
+      - path: Bn_RootWeaponHand/Bn_Root/Bn_Trigger
+        weight: 1
+      - path: Rifle_low
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

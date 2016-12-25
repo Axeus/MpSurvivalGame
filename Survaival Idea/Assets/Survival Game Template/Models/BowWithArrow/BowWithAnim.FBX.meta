@@ -1,0 +1,175 @@
+fileFormatVersion: 2
+guid: b41cffe82e97b3d4bbbcb47938c6f331
+timeCreated: 1460306102
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Bn_Arrow_A01
+    100002: Bn_BowStripF
+    100004: Bn_Dn_A01
+    100006: Bn_Dn_B01
+    100008: Bn_Dn_BowString
+    100010: Bn_Dn_C01
+    100012: Bn_Dn_D01
+    100014: Bn_Dn_E01
+    100016: Bn_Root
+    100018: Bn_Root001
+    100020: Bn_Up_A01
+    100022: Bn_Up_B01
+    100024: Bn_Up_BowString
+    100026: Bn_Up_C01
+    100028: Bn_Up_D01
+    100030: Bn_Up_E01
+    100032: Bow_low
+    100034: //RootNode
+    400000: Bn_Arrow_A01
+    400002: Bn_BowStripF
+    400004: Bn_Dn_A01
+    400006: Bn_Dn_B01
+    400008: Bn_Dn_BowString
+    400010: Bn_Dn_C01
+    400012: Bn_Dn_D01
+    400014: Bn_Dn_E01
+    400016: Bn_Root
+    400018: Bn_Root001
+    400020: Bn_Up_A01
+    400022: Bn_Up_B01
+    400024: Bn_Up_BowString
+    400026: Bn_Up_C01
+    400028: Bn_Up_D01
+    400030: Bn_Up_E01
+    400032: Bow_low
+    400034: //RootNode
+    4300000: Bow_low
+    7400000: Shot
+    9500000: //RootNode
+    13700000: Bow_low
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Shot
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 12
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bn_Root001
+        weight: 1
+      - path: Bn_Root001/Bn_Root
+        weight: 1
+      - path: Bn_Root001/Bn_Root/Bn_BowStripF
+        weight: 1
+      - path: Bn_Root001/Bn_Root/Bn_BowStripF/Bn_Arrow_A01
+        weight: 1
+      - path: Bn_Root001/Bn_Root/Bn_Dn_A01
+        weight: 1
+      - path: Bn_Root001/Bn_Root/Bn_Dn_A01/Bn_Dn_B01
+        weight: 1
+      - path: Bn_Root001/Bn_Root/Bn_Dn_A01/Bn_Dn_B01/Bn_Dn_C01
+        weight: 1
+      - path: Bn_Root001/Bn_Root/Bn_Dn_A01/Bn_Dn_B01/Bn_Dn_C01/Bn_Dn_D01
+        weight: 1
+      - path: Bn_Root001/Bn_Root/Bn_Dn_A01/Bn_Dn_B01/Bn_Dn_C01/Bn_Dn_D01/Bn_Dn_E01
+        weight: 1
+      - path: Bn_Root001/Bn_Root/Bn_Dn_A01/Bn_Dn_B01/Bn_Dn_C01/Bn_Dn_D01/Bn_Dn_E01/Bn_Dn_BowString
+        weight: 1
+      - path: Bn_Root001/Bn_Root/Bn_Up_A01
+        weight: 1
+      - path: Bn_Root001/Bn_Root/Bn_Up_A01/Bn_Up_B01
+        weight: 1
+      - path: Bn_Root001/Bn_Root/Bn_Up_A01/Bn_Up_B01/Bn_Up_C01
+        weight: 1
+      - path: Bn_Root001/Bn_Root/Bn_Up_A01/Bn_Up_B01/Bn_Up_C01/Bn_Up_D01
+        weight: 1
+      - path: Bn_Root001/Bn_Root/Bn_Up_A01/Bn_Up_B01/Bn_Up_C01/Bn_Up_D01/Bn_Up_E01
+        weight: 1
+      - path: Bn_Root001/Bn_Root/Bn_Up_A01/Bn_Up_B01/Bn_Up_C01/Bn_Up_D01/Bn_Up_E01/Bn_Up_BowString
+        weight: 1
+      - path: Bow_low
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
